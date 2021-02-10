@@ -1,0 +1,16 @@
+.sidebar {
+  display: flex;
+  flex: 0.33;
+  flex-direction: column;
+  padding: 2vh;
+}
+
+.sidebar__body {
+  display: flex;
+  flex-direction: column;
+  /* background-color: #ffffffef; */
+  border-radius: 4px;
+  margin: 1vh;
+  height: 90%;
+  /* box-shadow: -1px 4px 25px -6px rgba(0, 0, 0, 0.4); */
+}
